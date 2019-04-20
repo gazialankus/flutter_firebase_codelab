@@ -1,16 +1,11 @@
 # b4wtm19_flutter
 
-A new Flutter application.
+We used these two codelabs;
 
-## Getting Started
+-[Write Your First Flutter App, part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/)
+-[Write Your First Flutter App, part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/)
 
-This project is a starting point for a Flutter application.
+Then, we made use of this other codelab to add Firebase to the app that we created above.
 
-A few resources to get you started if this is your first Flutter project:
+-[Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/)
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
