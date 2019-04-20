@@ -1,4 +1,6 @@
-# b4wtm19_flutter
+# WTM Antalya 2019 Flutter/Firebase Workshop
+
+https://iwd-19-antalya.firebaseapp.com/schedule/2019-04-20?sessionId=104
 
 We used these two codelabs;
 
