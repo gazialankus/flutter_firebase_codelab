@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "142399634589",
+    "firebase_url": "https://wtm-antalya-hotel-2019.firebaseio.com",
+    "project_id": "wtm-antalya-hotel-2019",
+    "storage_bucket": "wtm-antalya-hotel-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142399634589:android:af50a5af675ca568",
+        "android_client_info": {
+          "package_name": "com.example.b4wtm19_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142399634589-2ikqubusb5s5jptfsrs3lcrsk40etnla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-3V_yqIyR2epiJDfYPRIQ4lIDk3UlzHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142399634589-2ikqubusb5s5jptfsrs3lcrsk40etnla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
